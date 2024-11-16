@@ -47,7 +47,10 @@ Puedes descargar Eigen con el siguiente link: https://eigen.tuxfamily.org/dox/Ge
 Compila el archivo `main.cpp` usando el compilador de C++ que prefieras. Por ejemplo, en g++, puedes usar:
 ```bash
 g++ -I /ruta/a/eigen main.cpp -o matrices-inc
+```
 
+##Licencias
 Este proyecto no tiene licencias.
+
 # Matrix.Inc
 Plataforma de aprendizaje de algebra de matrices.
