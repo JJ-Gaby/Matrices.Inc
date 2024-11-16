@@ -16,8 +16,6 @@ Ejercicios de suma y resta (No en codigo)- Josmary*/
 
 #include <iostream>
 #include <Eigen/Dense>
-#include <ctime>
-#include <string>
 #include <stdlib.h>
 using namespace Eigen;
 using namespace std;
@@ -31,7 +29,6 @@ int main(){
     int correctas = 0, incorrectas = 0; //Contadores para respuestas correctas e incorrectas.
     double respuesta; //Variable para la respuesta del usuario.
     char respuestaLetra, continuar; //Variable para la respuesta del usuario para seleccion multiple y continuar para do while.
-    string respuesta1,r2,r3,r4,r5; 
     
     //Bienvenida al usuario
     cout<<"Bienvenido a Matrices.Inc, aqui aprenderas todo lo relacionado con algebra de matrices.\n\n";
