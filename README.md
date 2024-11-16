@@ -1,3 +1,6 @@
+# Matrix.Inc
+Plataforma de aprendizaje de algebra de matrices.
+
 Matrices Inc. -Proyecto de Aprendizaje de Álgebra de Matrices en C++.
 De que trata el projecto?
 Matrices Inc. es un programa interactivo en C++ diseñado para enseñar y practicar los conceptos básicos de álgebra de matrices. Los usuarios pueden aprender sobre matrices especiales, operaciones de suma, resta y multiplicación de matrices, así como el cálculo de determinantes. Cada sección incluye una breve explicación del concepto, ejemplos, y ejercicios de práctica con opciones de respuesta para reforzar el aprendizaje.
@@ -10,7 +13,7 @@ El codigo contiene lo siguiente:
   - Multiplicación de matrices
   - Cálculo de determinantes de matrices cuadradas
 - Contadores de respuestas correctas e incorrectas al final de cada sección.
-Cómo usar?
+### How to use?
 -El programa mostrará matrices y te pedirá resolver una operación (como la suma de matrices).
 Antes de iniciar el ejercicio, el programa te pedirá que presiones Enter para comenzar el cálculo.
 Una vez que determines la respuesta, selecciona la opción correcta escribiendo A, B, C o D y presionando Enter.
@@ -42,5 +45,4 @@ g++ -I /ruta/a/eigen main.cpp -o matrices-inc
 ```
 ## Licencias
 Este proyecto no tiene licencias.
-# Matrix.Inc
-Plataforma de aprendizaje de algebra de matrices.
+
