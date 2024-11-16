@@ -49,7 +49,7 @@ Compila el archivo `main.cpp` usando el compilador de C++ que prefieras. Por eje
 g++ -I /ruta/a/eigen main.cpp -o matrices-inc
 ```
 
-##Licencias
+## Licencias
 Este proyecto no tiene licencias.
 
 # Matrix.Inc
